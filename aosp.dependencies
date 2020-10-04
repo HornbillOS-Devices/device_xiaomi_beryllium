@@ -5,9 +5,10 @@
     "branch": "ten"
   },
   {
-    "repository": "PixelExperience-Devices/kernel_xiaomi_beryllium",
+    "repository": "PainKiller3/kernel_xiaomi_beryllium",
     "target_path": "kernel/xiaomi/beryllium",
-    "branch": "ten"
+    "branch": "ten",
+    "remote": "github"
   },
   {
     "repository": "packages_apps_PixelLiveWallpaper",
