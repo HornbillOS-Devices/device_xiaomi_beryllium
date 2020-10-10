@@ -5,22 +5,15 @@
     "branch": "ten"
   },
   {
-    "repository": "PainKiller3/kernel_xiaomi_beryllium",
+    "repository": "HornbillOS-Devices/kernel_xiaomi_beryllium",
     "target_path": "kernel/xiaomi/beryllium",
-    "branch": "ten",
-    "remote": "github"
+    "branch": "ten"
   },
   {
-    "repository": "vendor_xiaomi_beryllium",
-    "target_path": "vendor/xiaomi/beryllium",
-    "branch": "ten",
-    "remote": "pixel-devices-blobs"
-  },
-  {
-    "repository": "vendor_xiaomi_sdm845-common",
-    "target_path": "vendor/xiaomi/sdm845-common",
-    "branch": "ten",
-    "remote": "pixel-devices-blobs"
+    "repository": "the-muppets/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "lineage-17.1",
+    "remote": "gitlab"
   },
   {
     "repository": "kdrag0n/proton-clang",
